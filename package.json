@@ -1,0 +1,25 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "A simple header parser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaclem01/header_parser.git"
+  },
+  "author": "Zachary Clemans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaclem01/header_parser/issues"
+  },
+  "homepage": "https://github.com/zaclem01/header_parser#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "locale": "0.0.21",
+    "useragent": "^2.1.9"
+  }
+}
