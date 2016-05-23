@@ -11,5 +11,5 @@ Use
 ---
 
 Navigate to the url and `whoami` path.  
-e.g. `https://timestamp-service-fcc2089.herokuapp.com/jan%201%2016`  
-will yield `{unix: 1451606400,natural: "January 1, 2016"}`
+e.g. `https://TBD.herokuapp.com/whoami`  
+will yield `{ipaddress: <your ip>;, language: "en-US", os: "Linux 0.0.0"}`
